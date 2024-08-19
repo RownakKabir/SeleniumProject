@@ -1,4 +1,4 @@
-package selenium2ndassignment;
+package selenium2ndAssignment;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
