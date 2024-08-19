@@ -1,4 +1,4 @@
-package selenium3rdassignment;
+package selenium3rdAssignment;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

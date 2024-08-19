@@ -1,4 +1,4 @@
-package selenium3rdassignment;
+package selenium3rdAssignment;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
